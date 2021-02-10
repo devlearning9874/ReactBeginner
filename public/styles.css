@@ -5,6 +5,7 @@ Heading {
 img {
   width: 450px;
   height: 200px;
+  border-radius:20%;
 }
 p {
   color: blue;
